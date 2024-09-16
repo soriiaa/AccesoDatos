@@ -13,8 +13,6 @@ public class Actividad1 {
 		System.out.print("Introduzca el nombre del archivo: ");
 		String nombreArchivo = in.nextLine();
 		
-		
-		
 		File archivo = new File(nombreArchivo);
 		
 		try {
