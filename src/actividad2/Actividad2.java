@@ -34,7 +34,6 @@ public class Actividad2 {
 			System.out.println("El texto ha sido insertado con éxito.");
 			fw.close();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
